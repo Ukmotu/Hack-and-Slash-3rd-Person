@@ -13,7 +13,7 @@ Library/cache/*
 Library/metadata/*
 Library/previews/*
 Library/ScriptAssemblies/*
-Library/Currentlayout.dwlt
+
 
 AnnotationManager
 assetDatabase3
@@ -24,6 +24,7 @@ AssetVersioning.db
 AudioManager.asset
 BuildPlayer.prefs
 BuildSettings.asset
+Currentlayout.dwlt
 DynamicsManager.asset
 EditorSettings.asset
 EditorUserBuildSettings.asset
