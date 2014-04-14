@@ -24,7 +24,7 @@ AssetVersioning.db
 AudioManager.asset
 BuildPlayer.prefs
 BuildSettings.asset
-Currentlayout.dwlt
+CurrentLayout.dwlt
 DynamicsManager.asset
 EditorSettings.asset
 EditorUserBuildSettings.asset
@@ -36,3 +36,4 @@ MonoManager.asset
 NetworkManager.asset
 ScriptMapper
 Library/CurrentLayout.dwlt
+*.dwlt
