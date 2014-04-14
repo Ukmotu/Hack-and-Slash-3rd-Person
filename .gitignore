@@ -13,7 +13,7 @@ Library/cache/*
 Library/metadata/*
 Library/previews/*
 Library/ScriptAssemblies/*
-/library/Currentlayout.dwlt
+Library/Currentlayout.dwlt
 
 AnnotationManager
 assetDatabase3
